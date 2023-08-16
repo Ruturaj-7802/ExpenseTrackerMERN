@@ -1,6 +1,3 @@
-//Here we won't use module.exports i.e export default in ES6 as there would be
-//many fucntions to export and these func we will destuct themin routes to
-//get use of it
 const Transaction = require("../models/TransactionModel");
 
 // @desc    Get all transactions
